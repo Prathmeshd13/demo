@@ -1,1 +1,1 @@
-print('Addition of 2 Numbers is : 10')
+print('Addition of 3 Numbers is : 20')
